@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173a43"/><stop offset="1" stop-color="#10232c"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#71ddc7"/><stop offset="1" stop-color="#0a887f"/></linearGradient></defs>
+  <rect x="16" y="16" width="96" height="96" rx="25" fill="url(#night)"/>
+  <g transform="translate(6.4 6.4) scale(.9)">
+    <path d="M25 46c0-12 9-21 21-21h24c12 0 21 9 21 21v8c0 12-9 21-21 21H51L35 87l4-14c-8-3-14-11-14-21v-6Z" fill="none" stroke="url(#sea)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M103 82c0 12-9 21-21 21H58c-12 0-21-9-21-21v-8c0-12 9-21 21-21h19l16-12-4 14c8 3 14 11 14 21v6Z" fill="none" stroke="#efc56f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 50h25M53 64h22M53 78h25" fill="none" stroke="#f5f8ef" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
